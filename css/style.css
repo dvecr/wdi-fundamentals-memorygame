@@ -9,7 +9,8 @@ header {
 }
 h1 {
   font-family: Raleway;
-  color: #002C40;
+  color: #FFFFFF;
+  //made some css changes to h1 to match sample project in GA
   letter-spacing: 1px;
   font-weight: 400;
   font-size: 45px;
@@ -22,6 +23,8 @@ h2 {
   letter-spacing: 1px;
   font-weight: 600;
   font-size: 20px;
+  text-transform: uppercase;
+  //made changes to h2 to match GA sample project
 }
 h3 {
   font-family: Raleway;
